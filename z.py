@@ -9,6 +9,7 @@ def z():
 '  zzz     ',
 ' zzz      ',
 ' zzz      ',
+'zzz       ',
 'zzzzzzzzzz',
 'zzzzzzzzzz'
         ]
