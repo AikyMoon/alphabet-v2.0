@@ -1,5 +1,6 @@
 def h():
-    h = ['hh      hh',
+    return [
+'hh      hh',
 'hh      hh',
 'hh      hh',
 'hh      hh',
@@ -11,4 +12,3 @@ def h():
 'hh      hh',
 'hh      hh',
 'hh      hh']
-    return h
